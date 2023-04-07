@@ -14,6 +14,6 @@ Minakshi Thapa,
 ## Datasets 
 Annie Dai: Safety
 
-Yexiu Gao: Food Facility
+Yexiu Gao: Obesity
 
 ## Description
