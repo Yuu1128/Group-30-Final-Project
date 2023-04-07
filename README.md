@@ -11,6 +11,9 @@ Annie Dai, wad18@pitt.edu
 
 Minakshi Thapa,
 
+## Canvas group number
+Group 30
+
 ## Datasets 
 Annie Dai: Safety
 
