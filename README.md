@@ -22,7 +22,7 @@ Yexiu Gao: Obesity: https://data.wprdc.org/dataset/allegheny-county-obesity-rate
 
 Serina Fan: Median home income: https://pghgishub-pittsburghpa.opendata.arcgis.com/datasets/3ca13246362540fa8b4b567f84a1255b_0.csv?outSR=%7B%22latestWkid%22%3A6565%2C%22wkid%22%3A103142%7D
 
-Minakshi Thapa: 
+Minakshi Thapa: https://data.wprdc.org/dataset/pittsburgh-public-schools-enrollment/resource/7b0660d1-c812-496d-ab0a-8560902e9e70
 
 ## Repository Overview
 
