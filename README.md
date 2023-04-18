@@ -10,7 +10,7 @@ Serina Fan, xif56@pitt.edu
 
 Annie Dai, wad18@pitt.edu
 
-Minakshi Thapa,
+Minakshi Thapa, MIT88@pitt.edu
 
 ## Canvas Group Number
 Group 30
@@ -25,3 +25,4 @@ Serina Fan: Median home income: https://pghgishub-pittsburghpa.opendata.arcgis.c
 Minakshi Thapa: 
 
 ## Repository Overview
+
