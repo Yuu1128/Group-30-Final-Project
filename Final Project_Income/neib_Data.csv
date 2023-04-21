@@ -2,7 +2,7 @@ SNAP_All_csv_Neighborhood,Median_Home_Value,Change_Real_Value
 Central Oakland,144350,0.836
 North Oakland,273000,-0.031
 West Oakland,61100,0.016
-Crawford-Roberts,94600,0.055
+Crawford Roberts,94600,0.055
 Strip District,161800,-0.408
 Central Business District,125800,0.672
 Spring Hill-City View,58900,0.064
@@ -48,8 +48,8 @@ Banksville,110900,0.004
 Windgap,78200,-0.064
 Friendship,167300,0.143
 Arlington,44200,-0.1
-St. Clair,41100,-0.279
-Mt. Oliver,56700,0.142
+Saint Clair,41100,-0.279
+Mount Oliver,56700,0.142
 Sheraden,61600,-0.037
 Allegheny West,123600,-0.389
 Elliott,51300,-0.121
@@ -83,4 +83,4 @@ Fairywood,72800,0.223
 Chartiers City,76700,-0.042
 Ridgemont,90500,0.017
 West End,29800,-0.122
-California-Kirkbride,113200,1.794
+California Kirkbride,113200,1.794
