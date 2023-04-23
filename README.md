@@ -1,7 +1,7 @@
 # Group-30-Final-Project
 
 ## Team Name 
-
+Group 30
 
 ## Team Member
 Yexiu Gao, yeg10@pitt.edu
