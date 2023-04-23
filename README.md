@@ -26,4 +26,4 @@ Analysis notebook: xif56-Final-Project.ipynb
 Minakshi Thapa: Enrollment by School and Neighborhood https://data.wprdc.org/dataset/pittsburgh-public-schools-enrollment/resource/7b0660d1-c812-496d-ab0a-8560902e9e70
 
 ## Repository Overview
-
+Our repository is to find out the best neighborhood in Pittsburgh based on analyzing metrics like crime, health, poverty, and education.
