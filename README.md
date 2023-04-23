@@ -37,4 +37,4 @@ Analysis notebook: FINAL_PROJECT.ipynb\
 Uploaded dataset: finalproject.csv
 
 ## Repository Overview
-Our repository is to find out the best neighborhood in Pittsburgh based on analyzing metrics like crime, health, poverty, and education.
+Our repository is to find out the best neighborhood in Pittsburgh based on analyzing metrics like crime, health, property, and education.
