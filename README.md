@@ -1,7 +1,7 @@
 # Group-30-Final-Project
 
 ## Team Name 
-YAMS
+yams!
 
 ## Team Member
 Yexiu Gao, yeg10@pitt.edu
