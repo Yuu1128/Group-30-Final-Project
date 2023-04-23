@@ -16,7 +16,7 @@ Minakshi Thapa, MIT88@pitt.edu
 Group 30
 
 ## Datasets & Description
-Annie Dai: Safety: https://data.wprdc.org/dataset/arrest-data\
+Annie Dai: Safety: https://data.wprdc.org/dataset/arrest-data \
 Analysis notebook: wad18FinalProj.ipynb\
 Uploaded dataset: arrest.csv
 
