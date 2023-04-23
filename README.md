@@ -16,8 +16,9 @@ Minakshi Thapa, MIT88@pitt.edu
 Group 30
 
 ## Datasets & Description
-Annie Dai: Safety: https://data.wprdc.org/dataset/arrest-data
-Analysis notebook: wad18FinalProj.ipynb
+Annie Dai: Safety: https://data.wprdc.org/dataset/arrest-data\
+Analysis notebook: wad18FinalProj.ipynb\
+Uploaded dataset: arrest.csv
 
 Yexiu Gao: Obesity: https://data.wprdc.org/dataset/allegheny-county-obesity-rates/resource/fce248f0-8697-4d2a-bbe0-2da826776bfa?view_id=623baf47-90d4-4745-b17f-6b1f14849d76
 Analysis notebook: yes10-Final-Project.ipynb
